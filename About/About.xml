@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Anima Tree reskin (Continued)</name>
+  <packageId>Mlie.AnimaTreeReskin</packageId>
+  <author>cattleya</author>
+  <url>https://github.com/emipa606/AnimaTreeReskin</url>
+  <supportedVersions>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+    <li>
+      <packageId>Ludeon.Rimworld.Royalty</packageId>
+      <displayName>Rimworld Royalty</displayName>
+      <downloadUrl>https://store.steampowered.com/app/1149640/RimWorld__Royalty/</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.Rimworld.Royalty</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of cattleyas mod https://steamcommunity.com/sharedfiles/filedetails/?id=2358398892
+
+- Replaced the overwrite of the incident with a patch instead
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/AnimaTreeReskin][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://dl.dropboxusercontent.com/s/p74ztf8fy6h0s5m/description.png[/img]  
+Added new building - Anima Tree Spot. It's drawing ornament on ground which strangely attracts Anima tree. This building should be placed on ground without roof even if there are another buildings nearest. Then need to chop tree if it exist. After time new Anima Tree will appear in this spot. Note if there are buildings nearby potential of the tree will be lowered. 
+And there are new reskin of course.
+  
+[img]https://dl.dropboxusercontent.com/s/04f126ah7zeeqdx/compatibility.png[/img]
+- This mod should work without problem with other mods, but if you will have some troubles please tell me, maybe I can fix it. 
+- I tested it with Hardcore SK mod pack, it work good, just subscribe and enjoy
+
+  
+[img]https://dl.dropboxusercontent.com/s/boez0ci6j3ulage/license.png[/img]
+All images in this mod are licensed under the CC BY-NC-SA 4.0 : https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+If you like this mod you can buy me coffee: https://ko-fi.com/artcattleya
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/][img]https://img.shields.io/github/v/release/emipa606/AnimaTreeReskin?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+</ModMetaData>
