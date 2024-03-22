@@ -26,9 +26,6 @@ And there are new reskin of course.
 
 All images in this mod are licensed under the CC BY-NC-SA 4.0 : https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-
-If you like this mod you can buy me coffee: https://ko-fi.com/artcattleya
-
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
@@ -39,8 +36,9 @@ If you like this mod you can buy me coffee: https://ko-fi.com/artcattleya
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+-  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
 
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/]![Image](https://img.shields.io/github/v/release/emipa606/AnimaTreeReskin?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
+https://steamcommunity.com/sharedfiles/filedetails/changelog/3045874664]![Image](https://img.shields.io/github/v/release/emipa606/AnimaTreeReskin?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
 

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_TreeAnima"]/graphicData/texPath</xpath>
+    <value>
+      <texPath>Things/Plant/reskinPlants/AnimaTree/AnimaTree</texPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_TreeAnima"]/plant/immatureGraphicPath</xpath>
+    <value>
+      <immatureGraphicPath>Things/Plant/reskinPlants/AnimaTree/AnimaTree_Immature</immatureGraphicPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_TreeAnima"]/plant/visualSizeRange</xpath>
+    <value>
+      <visualSizeRange>1.5~2.5</visualSizeRange>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/IncidentDef[defName="AnimaTreeSpawn"]/workerClass</xpath>
+    <value>
+      <workerClass>AnimaTreeReskin.AnimaTreeReskin_IncidentWorker_AnimaTreeSpawn</workerClass>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_GrassAnima"]/graphicData/texPath</xpath>
+    <value>
+      <texPath>Things/Plant/reskinPlants/AnimaTreeGrass/AnimaTreeGrass</texPath>
+    </value>
+  </Operation>
+</Patch>

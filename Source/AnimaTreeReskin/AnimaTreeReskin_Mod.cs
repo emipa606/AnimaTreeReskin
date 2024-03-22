@@ -9,7 +9,6 @@ internal class AnimaTreeReskin_Mod : Mod
     public AnimaTreeReskin_Mod(ModContentPack content)
         : base(content)
     {
-        var harmonyInstance = new Harmony("cattleya.AnimaTreeReskin");
-        harmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
+        new Harmony("cattleya.AnimaTreeReskin").PatchAll(Assembly.GetExecutingAssembly());
     }
 }
