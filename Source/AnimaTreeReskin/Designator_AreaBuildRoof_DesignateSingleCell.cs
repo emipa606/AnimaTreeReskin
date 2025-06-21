@@ -5,7 +5,7 @@ using Verse;
 namespace AnimaTreeReskin;
 
 [HarmonyPatch(typeof(Designator_AreaBuildRoof), "DesignateSingleCell")]
-internal class AnimaTreeReskin_Patch
+internal class Designator_AreaBuildRoof_DesignateSingleCell
 {
     public static void Prefix(ref Designator_AreaBuildRoof __instance, IntVec3 c)
     {

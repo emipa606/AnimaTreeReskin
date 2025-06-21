@@ -9,7 +9,7 @@ internal class AnimaTreeReskin_IncidentWorker_AnimaTreeSpawn : IncidentWorker_An
     protected override bool TryExecuteWorker(IncidentParms parms)
     {
         var map = (Map)parms.target;
-        if (!TryFindRootCell(map, out var cell))
+        if (!tryFindRootCell(map, out var cell))
         {
             return false;
         }
@@ -28,7 +28,7 @@ internal class AnimaTreeReskin_IncidentWorker_AnimaTreeSpawn : IncidentWorker_An
         return true;
     }
 
-    private new bool TryFindRootCell(Map map, out IntVec3 cell)
+    private bool tryFindRootCell(Map map, out IntVec3 cell)
     {
         foreach (var item in map.listerBuildings.allBuildingsColonist)
         {

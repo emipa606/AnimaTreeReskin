@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Anima Tree Spot -->
+  <AnimaTreeSpot.label>Anima Tree Spot</AnimaTreeSpot.label>
+  <!-- EN: It's drawing ornament on ground which strangely attracts Anima tree. This building should be placed on ground without roof even if there are another buildings nearest. -->
+  <AnimaTreeSpot.description>It's drawing ornament on ground which strangely attracts Anima tree. This building should be placed on ground without roof even if there are another buildings nearest.</AnimaTreeSpot.description>
+</LanguageData>
